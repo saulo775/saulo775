@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como web full stack
 - 🌱 Estudando node com typescript
 
 <div align="center">
