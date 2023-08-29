@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje trabalho como web full stack
-- 🌱 Estudando node com typescript
+- 🔭 Hoje trabalho como desenvolvedor back end
+- 🌱 Estudando go
 
 <div align="center">
   <a href="https://github.com/saulo775">
